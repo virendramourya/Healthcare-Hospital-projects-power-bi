@@ -1,0 +1,76 @@
+**Hospital Emergency Room Dashboard (Power BI)**
+📌 Project Overview
+
+This project presents an interactive Emergency Room (ER) dashboard built using Power BI, designed to monitor hospital performance, 
+patient flow, and operational efficiency.
+
+The dashboard provides both high-level insights (consolidated view) and granular analysis (monthly & patient-level view) to support 
+data-driven decision-making in healthcare environments.
+
+🎯 Objectives
+Track patient volume and trends
+Monitor average wait times
+Evaluate patient satisfaction
+Analyze admission vs non-admission rates
+Identify bottlenecks in ER operations
+Support hospital staff in improving response time and care quality
+📊 Dashboard Views
+1. 📈 Consolidated View
+
+A high-level overview of hospital performance across the selected date range:
+
+Total number of patients
+Average wait time
+Patient satisfaction score
+Number of referred patients
+Admission status distribution
+% of patients seen within 30 minutes
+Department-wise referrals
+Patient demographics (race, gender)
+Daily patient trends
+2. 📅 Monthly View
+
+Focused analysis for a selected month and year:
+
+Daily patient inflow trends
+Monthly KPIs (patients, wait time, satisfaction)
+Admission breakdown
+Department referrals for the selected period
+Time-based patient distribution
+3. 🧾 Patient Details View
+
+A detailed tabular view providing:
+
+Patient demographics (age, gender, race)
+Admission status
+Department referral
+Wait time per patient
+Date-level granularity for deep analysis
+🔍 Key Insights
+📌 Nearly 50% of patients are admitted, indicating balanced ER intake vs discharge.
+⏱️ Average wait time is around 35–37 minutes, highlighting potential optimization areas.
+😊 Patient satisfaction remains steady at ~5/10, suggesting room for improvement.
+🚑 A significant number of patients are not referred to departments, indicating direct ER handling.
+📊 Only about 40–50% of patients are seen within 30 minutes, revealing operational pressure points.
+🛠️ Tools & Technologies
+Power BI – Data visualization & dashboarding
+DAX (Data Analysis Expressions) – KPI calculations
+Data Modeling – Relationships between date and patient datasets
+Excel / CSV (assumed) – Data source
+📂 Features
+Interactive slicers (date, month, year)
+Drill-down capability
+Dynamic KPIs
+Clean and intuitive UI design
+Multi-page navigation
+🚀 Use Cases
+Hospital administration monitoring
+Healthcare analytics projects
+Data analyst portfolio showcase
+Operational performance tracking
+
+
+Developed an interactive Power BI dashboard to analyze ER operations, enabling stakeholders to monitor KPIs like patient flow, wait times, and service efficiency.
+Translated healthcare data into actionable business insights, identifying trends and bottlenecks to support operational decision-making and process improvement
+
+
